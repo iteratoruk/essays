@@ -40,6 +40,9 @@ Several of the papers were developed through structured engagements with generat
 - **Architecture and Power: Where Authority Actually Lives**  
   A structural analysis of how architecture allocates power by determining who can act, who must coordinate, and who bears the consequences of change, often independently of formal governance structures.
 
+- **Failure as a First-Class Architectural Input**  
+  A structural analysis of failure as the mechanism by which systems expose their real architecture, showing why suppressing failure degrades trust, governance, and change capability over time.
+
 ## Scope and intent
 
 These essays are not position papers, policy proposals (with the exception of the constitutional draft), or opinion pieces in the usual sense. They are best read as design documents: attempts to make implicit assumptions explicit and to reason about systems in terms of structure, incentives, and durability.
