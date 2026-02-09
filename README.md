@@ -43,6 +43,9 @@ Several of the papers were developed through structured engagements with generat
 - **Failure as a First-Class Architectural Input**  
   A structural analysis of failure as the mechanism by which systems expose their real architecture, showing why suppressing failure degrades trust, governance, and change capability over time.
 
+- **Selfhood, Embodiment, and the Political as an Emergent Structural Property**
+  A structural analysis of selfhood and politics that treats embodiment and temporal continuity as descriptive constraints, and the political as an emergent property of interdependent agents operating under shared limits. The paper argues against ontologies that treat politics as ontologically prior, showing how such totalisation collapses analytical resolution and weakens judgement, diagnosis, and revision over time. Framed explicitly in architectural terms, it extends the repository’s core concerns—structure, constraint, emergence, and failure—beyond software systems to the conditions under which political and social systems remain observable and governable.
+
 ## Scope and intent
 
 These essays are not position papers, policy proposals (with the exception of the constitutional draft), or opinion pieces in the usual sense. They are best read as design documents: attempts to make implicit assumptions explicit and to reason about systems in terms of structure, incentives, and durability.
