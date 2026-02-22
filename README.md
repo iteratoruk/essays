@@ -46,6 +46,10 @@ Several of the papers were developed through structured engagements with generat
 - **Selfhood, Embodiment, and the Political as an Emergent Structural Property**
   A structural analysis of selfhood and politics that treats embodiment and temporal continuity as descriptive constraints, and the political as an emergent property of interdependent agents operating under shared limits. The paper argues against ontologies that treat politics as ontologically prior, showing how such totalisation collapses analytical resolution and weakens judgement, diagnosis, and revision over time. Framed explicitly in architectural terms, it extends the repository’s core concerns—structure, constraint, emergence, and failure—beyond software systems to the conditions under which political and social systems remain observable and governable.
 
+  **Embodiment, Ontology, and Ethical Entanglement as Layered Structural Condition**
+  A structural extension of the embodiment thesis, examining the entanglement of ontology and ethics under conditions of embodied vulnerability. The paper introduces a layered model of embodiment—distinguishing between universal structural exposure (finitude, dependency, risk) and differentiated embodied positions shaped by historical and social asymmetry. It argues that ethical salience emerges from these structural conditions rather than from ideological imposition, and that unity and difference must be preserved simultaneously to avoid both false neutrality and ontological fragmentation. Framed in architectural terms, the essay treats ontology itself as a model under constraint and insists on preserving analytical resolution sufficient for judgement, revision, and shared worldhood over time.
+
+
 ## Scope and intent
 
 These essays are not position papers, policy proposals (with the exception of the constitutional draft), or opinion pieces in the usual sense. They are best read as design documents: attempts to make implicit assumptions explicit and to reason about systems in terms of structure, incentives, and durability.
