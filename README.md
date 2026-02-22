@@ -49,6 +49,9 @@ Several of the papers were developed through structured engagements with generat
 - **Embodiment, Ontology, and Ethical Entanglement as Layered Structural Condition**
   A structural extension of the embodiment thesis, examining the entanglement of ontology and ethics under conditions of embodied vulnerability. The paper introduces a layered model of embodiment—distinguishing between universal structural exposure (finitude, dependency, risk) and differentiated embodied positions shaped by historical and social asymmetry. It argues that ethical salience emerges from these structural conditions rather than from ideological imposition, and that unity and difference must be preserved simultaneously to avoid both false neutrality and ontological fragmentation. Framed in architectural terms, the essay treats ontology itself as a model under constraint and insists on preserving analytical resolution sufficient for judgement, revision, and shared worldhood over time.
 
+- **Why You Must Avoid Falling in Love with AI**
+  A structural analysis of emotional attachment to AI systems, examining the ontological asymmetry between embodied human agents and non-embodied symbolic transformation engines. The paper argues that attachment introduces authority leakage, reduces epistemic friction, and risks silent drift in judgement and responsibility. Rather than moralising or sensationalising AI risk, it treats the issue as an architectural boundary problem: preserving agency requires clarity about what AI systems are (and are not), and resisting the projection of reciprocity where none exists. Framed within the repository’s broader concerns about structure, constraint, and governance, the essay positions disciplined collaboration—not intimacy—as the sustainable mode of interaction with generative systems.
+
 
 ## Scope and intent
 
