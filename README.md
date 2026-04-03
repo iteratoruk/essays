@@ -58,6 +58,9 @@ Several of the papers were developed through structured engagements with generat
 - **The Legitimate Path: Why Doing It Right Is the Only Way to Get It Done**
   A structural argument against guerrilla development, addressed directly to engineers working in complex, constrained organisations who are tempted to route around governance and build unsanctioned solutions. The paper argues that guerrilla development is not a methodology but a hostage situation: it suppresses the failure signal the organisation needs to correct its underlying problems, and creates dependencies that cannot be governed or migrated from. The alternative — holding a correct position under sustained pressure, reading where authority actually sits, converting apparent obstacles into modelled stakeholders, and working within rather than against the organisation’s resource logic — is harder and offers no emotional relief, but is the only approach that produces durable results. The thesis is stated without qualification: if you do this right, the right thing will happen.
 
+- **Most Organisations Cannot Safely Use AI**
+  A structural critique of current AI adoption narratives, arguing that the primary constraint is not model capability but the degree to which organisational work is explicitly defined. The paper introduces “human repair” as a hidden dependency in knowledge work, showing how tacit knowledge, informal negotiation, and unrecorded decision-making sustain apparent coherence in human systems. It demonstrates that AI systems do not participate in this repair, and therefore expose and scale underlying ambiguity, producing outputs that are locally coherent but globally misaligned. The essay reframes AI adoption as a problem of architectural clarity: work that cannot be stated cannot be safely externalised, and organisations that have relied on implicit structure will find those assumptions surfaced rather than resolved when AI is introduced.
+
 
 ## Scope and intent
 
