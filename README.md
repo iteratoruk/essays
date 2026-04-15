@@ -34,6 +34,9 @@ Several of the papers were developed through structured engagements with generat
 - **Identity, Classification, and Context Boundaries in Distributed Systems**  
   A structural argument for treating identity and classification as distinct concerns in distributed systems, showing why the absence of formal classification inevitably leads to implicit, unmanaged coupling across context boundaries.
 
+- **Coincident Values, Distinct Schemes**  
+  A structural argument against conflating independently-governed classification schemes on the basis of coincident values. The paper establishes that classification schemes are defined not by their current value sets but by their properties — ownership, mutability profile, semantic scope, and change consequence — and that value equivalence between two schemes is a temporal observation rather than a structural or contractual claim. It demonstrates that conflation imposes the wrong governance model, producing either unnecessary constraint or unmanaged instability, and argues that the correct response is independent modelling with any relationship between schemes made explicit and governed. Extends the arguments of *Identity, Classification, and Context Boundaries in Distributed Systems*.
+
 - **Change Is the System**  
   A structural reframing of software architecture that treats change as the system itself, showing why delivery slowdown, failed refactoring, and loss of reversibility are consequences of architectural form rather than team performance.
 
